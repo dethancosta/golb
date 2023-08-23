@@ -1,2 +1,2 @@
-[ ] More flexible address specification (Not just localhost)
-[ ] Better CLI with Cobra
+- [ ] More flexible address specification (Not just localhost)
+- [ ] Better CLI with Cobra
